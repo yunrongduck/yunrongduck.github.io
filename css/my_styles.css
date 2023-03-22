@@ -11,3 +11,31 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1{
     font-family:  'Noto Sans TC',sans-serif;
     text-transform: none;
 }
+
+.expedu-icon{
+    color: #495057;
+    text-decoration:none;
+}
+
+.expedu-icon:hover{
+    color:var(--bs-secondary);
+}
+
+:root{
+    --bs-primary:#2c67a2;
+    --bs-primary-rgb:44,103,162;
+    --bs-secondary:#965fb5;
+    --bs-secondary-rgb:181,150,95;
+}
+
+a{
+    color:var(--bs-primary);
+}
+a:hover{
+    color:var(--bs-secondary);
+}
+
+.social-icon .social-icon:hover{
+    background-color:var(--bs-secondary);
+}
+    
