@@ -35,7 +35,7 @@ a:hover{
     color:var(--bs-secondary);
 }
 
-.social-icon .social-icon:hover{
+.social-icons .social-icon:hover{
     background-color:var(--bs-secondary);
 }
     
